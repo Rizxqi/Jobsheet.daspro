@@ -7,7 +7,7 @@ public class Bank20 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int init_sav_amount, sav_period;
-        double final_sav_amount, interest, interest_percent = 0.02;
+        double final_sav_amount, interest = 0.02, interest_percent = 0.05;
         System.out.print("Input your initial savings amount: ");
         init_sav_amount = sc.nextInt();
         System.out.print("input yor savings period: ");
