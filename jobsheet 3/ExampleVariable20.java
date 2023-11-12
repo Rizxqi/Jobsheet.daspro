@@ -4,7 +4,7 @@
 public class ExampleVariable20 {
 
     public static void main(String[] args) {
-     String OneOfmyhobbies = "Swiming";
+     String OneOfmyhobbies = "Traveling";
      boolean isSmart = true;
      char gender = 'M';
      byte _age = 20;

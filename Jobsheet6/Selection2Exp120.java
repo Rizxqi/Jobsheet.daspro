@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Selection2Exp1Student20 {
+public class         {
     public static void main(String[] args) {
         Scanner inputan20 = new Scanner(System.in); 
         int year; System.out.println("What Year ?"); 

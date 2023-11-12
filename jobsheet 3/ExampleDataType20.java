@@ -16,7 +16,7 @@ public class ExampleDataType20 {
         System.out.println("The Number of Residents\t: " + theNumberOfResidents);
         System.out.println("temperature\t\t: " + temperature); 
         System.out.println("weight\t\t\t: " + (float) weight);
-        System.out.println("Balance\t\t:" + Balance);
+        System.out.println("Balance\t\t\t:" + Balance);
         System.out.println("number\t\t\t:" + number);
     }
 }
